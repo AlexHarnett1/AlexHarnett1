@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Alex Harnett ##
 I'm a software engineer based in San Francisco, CA, passionate about solving complex problems, mastering new frameworks and architectures, and contributing to projects that drive meaningful change.
 
-When I'm not at my computer, I love getting outside to go for a run, a bike ride, or a round of golf! I also, really enjoy traveling around the world to see new places and experience unique cultures. 🌏
+When I'm not at my computer, I love getting outside to go for a run, a bike ride, or a round of golf! I also really enjoy traveling around the world to see new places and experience unique cultures. 🌏
 
 ### LLMonade 🍋 ###
 
